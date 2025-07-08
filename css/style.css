@@ -2,4 +2,7 @@
 @import "./reset.css";
 
 /* Superinfo */
-@import "./superinfo.css"
+@import "./superinfo.css";
+
+/* Menu */
+@import "./menu.css";
